@@ -1,0 +1,40 @@
+body{
+    font-family: 'Poppins',sans-serif;
+    text-align: justify;
+    color: #ffff;
+    background-color: #191b1c;
+    width: 1000px;
+    margin: auto;
+    overflow-x: hidden;
+}
+
+button{
+    background-color: #0b9389;
+    font-family: 'Poppins',sans-serif;
+    border: 0;
+    padding: 2px;
+    border-radius: 3px;
+    color: #ffffff;
+}
+
+h2 {
+    margin: 0;
+}
+
+h3 {
+    font-size: 18px;
+}
+
+p, label{
+    font-size: 14px;
+}
+
+.titulo {
+    margin-bottom: 20px;
+    font-size: 16px;
+}
+
+.perguntas {
+    background:#222a2e;
+    padding: 20px;
+}
